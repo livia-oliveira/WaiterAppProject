@@ -1,0 +1,8 @@
+{
+  "name": "WaiterAppProject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/livia-oliveira/WaiterAppProject.git",
+  "author": "livia-oliveira <livia.silva@alu.unibalsas.edu.br>",
+  "license": "MIT"
+}
